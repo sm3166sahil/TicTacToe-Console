@@ -2,7 +2,7 @@
  * TicTacToe
  * UC1: Initializes and displays an empty Tic-Tac-Toe board.
  */
-public class TicTacToe {
+public class UC1 {
 
     static char[][] board = new char[3][3];
 
